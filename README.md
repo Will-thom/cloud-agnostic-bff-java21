@@ -4,7 +4,7 @@
 ![Docker](https://img.shields.io/badge/docker-ready-blue)
 ![Java](https://img.shields.io/badge/java-21-orange)
 
-Projeto demonstrativo de **BFF moderno, resiliente e cloud-agnostic**, usando Docker, Resilience4j, logs estruturados e observabilidade planejada (OpenTelemetry, Prometheus, Grafana, Jaeger).
+Implantação de **BFF moderno, resiliente e cloud-agnostic**, usando Docker, Resilience4j, logs estruturados e observabilidade planejada (OpenTelemetry, Prometheus, Grafana, Jaeger).
 
 ---
 
